@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hiya! I'm Ashley 👋
+
+<p align="center">
+   <kbd>
+  <a href="https://twitter.com/ashleytolb"><img src="https://img.shields.io/badge/-%40ashleytolb-F4D1F3?style=for-the-badge&logo=twitter" /></a>
+</a>
+  </kbd>
+</p>
 
 <!--
 **ashleytolbert/ashleytolbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
