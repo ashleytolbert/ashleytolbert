@@ -1,4 +1,4 @@
-### Hiya! I'm Ashley 👋🏾
+### Hiya, I'm Ashley 👋🏾
 
 <p align="center">
    <kbd>
