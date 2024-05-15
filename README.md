@@ -1,24 +1,20 @@
-### Hiya, I'm Ashley 👋
-### Find me online at ashleytolbert.com🏾
+#### Hihihi ✨
+
+- I'm a cybersecurity engineer and technologist with penchant for the written word. I spent alot of time writing, reading, and thinking up possibilities.
+- I'm always open to interesting conversations and collaboration - I'm best reached via [email]() or on socials below. Let's chat!
+
 
 <p align="center">
    <kbd>
   <a href="https://twitter.com/ashleytolb"><img src="https://img.shields.io/badge/-%40ashleytolb-F4D1F3?style=for-the-badge&logo=twitter" /></a>
+</a> <a href="https://www.linkedin.com/in/ashleytolbert" title="LinkedIn"><img src="https://img.shields.io/badge/-ashleytolbert-F88379?style=for-the-badge&logo=Linkedin" /></a> <a href="https://www.ashleytolbert.com" title="Personal Site"><img src="https://img.shields.io/badge/-ashleytolbert.com-3F00FF?style=for-the-badge&logo=ApacheSpark" /></a>
+  </kbd>
+</p>
+
 </a>
   </kbd>
 </p>
 
 <!--
 **ashleytolbert/ashleytolbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
