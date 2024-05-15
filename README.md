@@ -6,7 +6,7 @@
 
 <p align="center">
    <kbd>
-  <a href="https://twitter.com/ashleytolb"><img src="https://img.shields.io/badge/-%40ashleytolb-F4D1F3?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://twitter.com/ashleytolb"><img src="https://img.shields.io/badge/-%40ashleytolb-F4C2C2?style=for-the-badge&logo=twitter" /></a>
 </a> <a href="https://www.linkedin.com/in/ashleytolbert" title="LinkedIn"><img src="https://img.shields.io/badge/-ashleytolbert-F88379?style=for-the-badge&logo=Linkedin" /></a> <a href="https://www.ashleytolbert.com" title="Personal Site"><img src="https://img.shields.io/badge/-ashleytolbert.com-3F00FF?style=for-the-badge&logo=ApacheSpark" /></a>
   </kbd>
 </p>
