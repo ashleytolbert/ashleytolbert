@@ -1,7 +1,7 @@
 #### Hihihi ✨
 
 - I'm a cybersecurity engineer and technologist with a penchant for written word. I spend alot of time writing, reading, and thinking up possibilities.
-- Open to interesting conversations and collaboration - I'm best reached via [email]() or on socials below ⬇
+- Open to interesting conversations and collaboration - I'm best reached via [email]() or on socials below
 
 
 <p align="center">
