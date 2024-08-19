@@ -1,6 +1,6 @@
 #### Hihihi 
 
-- I'm a cybersecurity engineer and technologist with a penchant for written word. I spend alot of time writing, reading, and thinking up possibilities.
+- I'm a cybersecurity engineer and technologist with a penchant for written word. I spend alot of time writing, reading, and thinking up computational possibilities.
 - Always open to interesting conversations and collaboration - I'm best reached via [email]() or on socials below
 
 
