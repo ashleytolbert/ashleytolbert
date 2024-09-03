@@ -7,7 +7,7 @@
 <p align="center">
    <kbd>
   <a href="https://twitter.com/ashleytolb"><img src="https://img.shields.io/badge/-%40ashleytolb-fdf5f3?style=for-the-badge&logo=twitter" /></a>
-</a> <a href="https://www.linkedin.com/in/ashleytolbert" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-E6DEDC?style=for-the-badge&logo=Linkedin" /></a> <a href="https://ashleytolbert.github.io" title="My Site"><img src="https://img.shields.io/badge/-my_gitsite-fdf5f3?style=for-the-badge" /></a>
+</a> <a href="https://www.linkedin.com/in/ashleytolbert" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-E6DEDC?style=for-the-badge&logo=Linkedin" /></a> <a href="https://ashleytolbert.github.io" title="My Site"><img src="https://img.shields.io/badge/-gitsite-fdf5f3?style=for-the-badge" /></a>
   </kbd>
 </p>
 
