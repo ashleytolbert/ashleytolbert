@@ -4,10 +4,12 @@
 - Always open to interesting conversations and collaboration - socials are below.
 
 
+img src="https://img.shields.io/twitter/follow/evilsocket?style=for-the-badge&label=%40evilsocket&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00"
+
 <p align="center">
    <kbd>
-  <a href="https://twitter.com/ashleytolb"><img src="https://img.shields.io/badge/-%40ashleytolb-fdf5f3?style=for-the-badge&logo=twitter" /></a>
-</a> <a href="https://www.linkedin.com/in/ashleytolbert" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-E6DEDC?style=for-the-badge&logo=Linkedin" /></a> <a href="https://ashleytolbert.github.io" title="My Site"><img src="https://img.shields.io/badge/-gitsite-fdf5f3?style=for-the-badge" /></a>
+  <a href="https://twitter.com/ashleytolb"><img src="https://img.shields.io/twitter/follow/ashleytolb?style=for-the-badge&label=ashleytolb&logo=twitter&logoColor=00AEFF&labelColor=black&color=fcd4b7"/></a>
+</a> <a href="https://www.linkedin.com/in/ashleytolbert"><img src="https://img.shields.io/badge/linkedin-fcd4b7?style=for-the-badge&logo=linkedin&logoColor=fcd4b7&labelColor=black" /></a> <a href="https://ashleytolbert.github.io" title="My Site"><img src="https://img.shields.io/badge/GIT-SITE-fcd4b7?style=for-the-badge&logo=twitter&logoColor=00AEFF&labelColor=black" alt="GIT SITE" /></a>
   </kbd>
 </p>
 
