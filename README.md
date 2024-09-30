@@ -1,7 +1,7 @@
 #### Hihihi 
 
 - I'm a cybersecurity engineer and technologist with a penchant for written word. I spend alot of time writing, reading, and thinking up computational possibilities.
-- Always open to interesting conversations and collaboration - socials are below.
+- Open to interesting conversations and collaboration - socials are below.
 
 <p align="center">
    <kbd>
