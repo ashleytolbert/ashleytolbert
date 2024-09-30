@@ -3,9 +3,6 @@
 - I'm a cybersecurity engineer and technologist with a penchant for written word. I spend alot of time writing, reading, and thinking up computational possibilities.
 - Always open to interesting conversations and collaboration - socials are below.
 
-
-img src="https://img.shields.io/twitter/follow/evilsocket?style=for-the-badge&label=%40evilsocket&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00"
-
 <p align="center">
    <kbd>
   <a href="https://twitter.com/ashleytolb"><img src="https://img.shields.io/twitter/follow/ashleytolb?style=for-the-badge&label=ashleytolb&logo=twitter&logoColor=00AEFF&labelColor=black&color=fcd4b7"/></a>
