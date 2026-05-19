@@ -1,5 +1,5 @@
 
-Hihi, I'm a cybersecurity engineer and technologist with a penchant for written word. I spend alot of time writing, reading, and thinking up computational possibilities. Open to interesting conversations and collaboration - socials are below. 
+I'm a cybersecurity engineer with a penchant for written word. I spend alot of time writing, reading, and thinking up digital possibilities. Open to interesting conversations and collaboration - socials are below. 
 
 <p align="center">
    <kbd>
